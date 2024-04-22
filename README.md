@@ -1,2 +1,2 @@
-# annotation-toolkit-label-studio-integration-test
+# label-studio-frontend-poc
 Created with CodeSandbox
